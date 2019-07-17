@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "282730686980",
+    "firebase_url": "https://custom2push.firebaseio.com",
+    "project_id": "custom2push",
+    "storage_bucket": "custom2push.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:282730686980:android:27e252d821ace8b1",
+        "android_client_info": {
+          "package_name": "webfirmam.app.custom2pushnotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "282730686980-27afdrp1ki53svggq902dtfbg0sm1sih.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDupgfZaIZzLmVW-FiJeRmosXSJrPoAMKs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "282730686980-27afdrp1ki53svggq902dtfbg0sm1sih.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
